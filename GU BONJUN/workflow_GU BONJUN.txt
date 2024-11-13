@@ -1,0 +1,14 @@
+1. **Environment Setup**
+   
+2. **Model Training Setup**
+   - 2.1 Install initial libraries
+   - 2.2 Import required modules
+   - 2.3 Load language model
+   - 2.4 Retrieve training texts
+   - 2.5 Perform sentiment prediction
+   - 2.6 Prepare data and visualize results
+   - 2.7 Create functions for keyword recommendations and advice
+
+3. **Test and Debug**
+
+4. **Finish Program**
